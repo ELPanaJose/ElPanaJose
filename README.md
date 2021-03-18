@@ -1,4 +1,4 @@
-# Hello Im ElPanaJose(pai) and welcome to my github.
+# Hello Im ElPanaJose and welcome to my github.
 
 ## About me.
 
@@ -18,4 +18,8 @@ Im just a teen developer with a lot of free time for develop his projects , I le
 
 ## Stats
 
+<p align ="center">
+  
 ![Metrics](https://metrics.lecoq.io/ELPanaJose?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FBogota)
+</p>
+
