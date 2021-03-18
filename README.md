@@ -14,7 +14,7 @@ Im just a teen developer with a lot of free time for develop his projects , I le
 
 ## My friends
 
-- <a href="https://github.com/ranon-rat"><h3>ranon-rat</h3></a> he really knows about go
+- <a href="https://github.com/ranon-rat">ranon-rat</a> he really knows about go
 
 ## Stats
 
