@@ -1,4 +1,4 @@
-# Hello Im ElPanaJose and welcome to my github.
+# Hello Im ElPanaJose(pai) and welcome to my github.
 
 ## About me.
 
@@ -7,8 +7,6 @@ Im just a teen developer with a lot of free time for develop his projects , I le
 ## My best projects they are.
 
 - <a href="https://chat-pai.herokuapp.com/"> <h3>paichat</h3> </a> a simple chat made in nodejs and socketIO. <p><img src="https://camo.githubusercontent.com/77e5081818a5bfbf1b2eac6a91df32c13207a0b45da64890495cbff0fd9b1997/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3734343431393236313038363433333238322f3738353236303731323738333634323634342f436170747572615f64655f70616e74616c6c615f323032302d31322d30365f3136343333372e706e673f77696474683d383636266865696768743d343330"></p>
-- <a href="https://github.com/ELPanaJose/BotJose"> <h3>Bot jose</h3></a> a shitty bot that I made with my friends ,
-[Raghav](https://github.com/nerdthatnoonelikes) and [ranon-rat](https://github.com/ranon-rat)
 <p> <img height=250 src="https://media.discordapp.net/attachments/820472030474272769/822156221704044594/Captura_de_Pantalla_2021-03-18_a_las_11.15.06.png"></p>
 - <a href="https://github.com/ranon-rat/sayBruh"> <h3>sayBruh</h3> </a> a simple hacking tool that I made with my friend
   [ranon-rat](https://github.com/ranon-rat) <p><img height=250 src="https://camo.githubusercontent.com/058ed8bec67f8beeaf01abb90eaa5c4921e36a121649890422c1652980e0e3bd/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3738363735323838353938323632353836322f3739333239303535383136343536363032362f436170747572615f64655f50616e74616c6c615f323032302d31322d32385f615f6c61735f372e33332e31335f702e6d2e2e706e673f77696474683d31323536266865696768743d363933"></p>
@@ -22,5 +20,4 @@ Im just a teen developer with a lot of free time for develop his projects , I le
 
 ## Stats
 
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELPanaJose&layout=compact&theme=tokyonight&hide=html">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=ELPanaJose&count_private=true&show_icons=true&theme=tokyonight">
+![Metrics](https://metrics.lecoq.io/ELPanaJose?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FBogota)
