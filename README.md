@@ -17,9 +17,6 @@ Im just a teen developer with a lot of free time for develop his projects , I le
 <a href="https://github.com/ranon-rat"><h3>ranon-rat</h3></a> he really knows about go, and help me a lot with projects :)
 
 ## Stats
-
-<p align ="center">
   
-![Metrics](https://metrics.lecoq.io/ELPanaJose?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FBogota)
-</p>
+ >>>> ![Metrics](https://metrics.lecoq.io/ELPanaJose?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FBogota)
 
