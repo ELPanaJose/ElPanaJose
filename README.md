@@ -1,10 +1,6 @@
-# Hello Im ElPanaJose and welcome to my github.
+### Hi!, im pai and i really like to code
 
-## About me.
-
-Im just a teen developer with a lot of free time for develop his projects , I learn a lot in one year and i really like to programm.
-
-## My best projects they are.
+## My favorite projects are:
 
 <a href="https://chat-pai.herokuapp.com/"> <h3>paichat</h3> </a> a simple chat made in nodejs and socketIO.
 
