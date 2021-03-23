@@ -16,7 +16,10 @@
 
 ## Stats
 
-![metrics](https://metrics.lecoq.io/ELPanaJose?template=classic&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FBogota)
+<p>
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELPanaJose&layout=compact&theme=tokyonight&hide=html">
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=ELPanaJose&count_private=true&show_icons=true&theme=tokyonight">
+</p>
 
 </div>
 
