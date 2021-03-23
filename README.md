@@ -17,8 +17,9 @@
 ## Stats
 
 <p>
-<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELPanaJose&layout=compact&theme=tokyonight&hide=html">
-<img height=150 src="https://github-readme-stats.vercel.app/api?username=ELPanaJose&count_private=true&show_icons=true&theme=tokyonight">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELPanaJose&langs_count=7&hide=html,css)
+![pai's github stats](https://github-readme-stats.vercel.app/api?username=mattn&show_icons=true&count_private=true&line_height=40)
+
 </p>
 
 </div>
