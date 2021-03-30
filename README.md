@@ -18,9 +18,7 @@
 
 <p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELPanaJose&langs_count=7&hide=html,css)
-  
-![pai's github stats](https://github-readme-stats.vercel.app/api?username=ELpanaJose&show_icons=true&count_private=true&line_height=40)
+![Metrics](https://metrics.lecoq.io/ELPanaJose?template=classic&languages=1&introduction=1&lines=1&languages.ignored=html%2Ccss&languages.skipped=learning-flutter&languages.colors=github&languages.threshold=0%25&introduction.title=true&config.timezone=America%2FBogota)
 
 </p>
 
