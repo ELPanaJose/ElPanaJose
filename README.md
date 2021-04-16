@@ -18,7 +18,7 @@
 
 <p>
   
-![Metrics](https://metrics.lecoq.io/ELPanaJose?template=classic&languages=1&achievements=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=America%2FBogota)
+![Metrics](https://metrics.lecoq.io/ELPanaJose?template=classic&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FBogota)
 
 </p>
 
