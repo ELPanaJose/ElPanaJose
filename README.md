@@ -18,7 +18,9 @@
 
 <p>
   
-![Metrics](https://metrics.lecoq.io/ELPanaJose?template=classic&languages=1&lines=1&introduction=1&gists=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&config.timezone=America%2FBogota)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELPanaJose&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![pais's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELPanaJose&show_icons=true&theme=radical)
 
 </p>
 
