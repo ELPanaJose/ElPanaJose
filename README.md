@@ -20,8 +20,5 @@
 
 <a href="https://github.com/ranon-rat"><h3>ranon-rat</h3></a> he really knows about go, and help me a lot with projects :)
 
-## Stats
-
-
 </div>
 
