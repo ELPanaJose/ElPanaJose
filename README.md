@@ -1,6 +1,12 @@
 <div align ="center">
 
-### Hi!, im pai and i really like to code
+### Hi!, im pai and i like to code
+
+<p>
+  
+![pais's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELPanaJose&show_icons=true&theme=radical)
+
+</p>
 
 ## My favorite projects are:
   
@@ -16,13 +22,6 @@
 
 ## Stats
 
-<p>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ELPanaJose&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![pais's GitHub stats](https://github-readme-stats.vercel.app/api?username=ELPanaJose&show_icons=true&theme=radical)
-
-</p>
 
 </div>
 
