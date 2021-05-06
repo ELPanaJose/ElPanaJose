@@ -1,6 +1,6 @@
 <div align ="center">
 
-### Hi!, im pai a 16 years old boy from colombia who like to code
+### Hi!, im pai a 16 years old boy from colombia who like to program
 
 <p>
   
