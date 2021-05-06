@@ -10,9 +10,11 @@
 
 ## Projects 🍱 
 
-**[paichat](https://chat-pai.herokuapp.com/) - A simple chat with socket.io** 
-**[dino-bot](https://github.com/ELPanaJose/dino-bot) - A bot that execute your deno code and send you the output** 
-**[bruh-bot](https://github.com/ELPanaJose/bruh-bot) - a discord bot that send sms and email spam** 
+**[paichat](https://chat-pai.herokuapp.com/) - A simple chat with socket.io** <br>
+
+**[dino-bot](https://github.com/ELPanaJose/dino-bot) - A bot that execute your deno code and send you the output** <br>
+
+**[bruh-bot](https://github.com/ELPanaJose/bruh-bot) - a discord bot that send sms and email spam** <br>
 
 </div>
 
