@@ -1,6 +1,6 @@
 <div align ="center">
 
-### Hi!, im pai and i like to code
+### Hi!, im pai a 16 years old boy from colombia who like to code
 
 <p>
   
@@ -8,17 +8,11 @@
 
 </p>
 
-## My favorite projects are:
-  
-<a href="https://chat-pai.herokuapp.com/"> <h3>paichat</h3> </a> a simple chat made in nodejs and socketio.
+## Projects 🖥️ </>
 
-<a href="https://github.com/ELPanaJose/dino-bot"> <h3>dino-bot</h3> </a> a bot that execute your deno code and send you the output.
-  
-<a href="https://github.com/ELPanaJose/bruh-bot"><h3>bruh bot</h3></a> a simple bot for made sms spam or email spam.
-
-## My friends
-
-<a href="https://github.com/ranon-rat"><h3>ranon-rat</h3></a> he really knows about go, and help me a lot with projects :)
+**[paichat](https://chat-pai.herokuapp.com/) [source](https://github.com/ELPanaJose/paichat) - A simple chat with socket.io** <br>
+**[dino-bot](https://github.com/ELPanaJose/dino-bot) - A bot that execute your deno code and send you the output** <br>
+**[bruh-bot](https://github.com/ELPanaJose/bruh-bot) - a discord bot that send sms and email spam** <br>
 
 </div>
 
