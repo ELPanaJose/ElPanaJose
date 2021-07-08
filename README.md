@@ -10,7 +10,7 @@
 
 ## Projects 🍱 
 
-**[paichat](https://chat-pai.herokuapp.com/) - A simple chat with socket.io** <br>
+**[deno-online-compiler](https://deno-online-compiler.herokuapp.com/) - A online compiler for deno** <br>
 
 **[dino-bot](https://github.com/ELPanaJose/dino-bot) - A bot that execute your deno code and send you the output** <br>
 
